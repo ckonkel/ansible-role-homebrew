@@ -1,0 +1,5 @@
+---
+- hosts: local
+
+  roles:
+    - v0rts.homebrew
